@@ -1,0 +1,832 @@
+.first {
+  background-color: white;
+  height: 25px;
+  text-align: center;
+  color: black;
+  padding-top: 8px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+video{
+  width: 100%;
+  margin-top: 8px;
+  
+}
+
+#navmain-1{
+position: absolute;
+top: 250px;
+display: none;
+}
+.navmain2{
+  display: flex;
+  justify-content: space-evenly;
+  position: relative;
+  top: -725px;
+
+}
+
+
+.navone{
+  margin-left: -80px;
+  margin-top: 50px;
+}
+.loction{
+  margin-top: -17px;
+  margin-left: 20px;
+}
+.navthree{
+  margin-right: -70px;
+  margin-top: 50px;
+}
+.people{
+  margin-right: 20px;
+}
+
+.navtwo01 > a {
+  text-decoration: none;
+  color: #ffffff;
+  margin-right: 30px;
+  font-size: 18px;
+}
+.navtwo01 {
+  margin-left: 180px;
+  display: flex;
+  margin-top: 50px;
+}
+.fa-magnifying-glass {
+  font-size: 31px;
+  color: rgba(255, 255, 255, 0.751);
+}
+.down-arror {
+  height: 12px;
+  width: 15px;
+  margin-right: 20px;
+}
+.down-arror1 {
+  height: 12px;
+  width: 15px;
+}
+.down-arror2 {
+  height: 12px;
+  width: 15px;
+}
+
+
+.skyicon {
+  margin-right: -20px;
+  margin-left: -60px;
+  margin-top: -20px;
+  height: 80px;
+  width: 250px;
+
+}
+.video {
+  width: 100%;
+ 
+}
+
+
+
+#view{
+display: none;
+  
+}
+.hidetwo {
+  display: none;
+}
+
+.hidetwoone {
+  display: flex;
+  justify-content: space-around;
+  background-color: white;
+  height: 300px;
+  width: 1519px;
+  position: absolute;
+  margin-left: -551px;
+}
+.hidetwo-1 > a:hover {
+  font-size: 18px;
+
+}
+.hidetwo-2 > a:hover {
+  font-size: 18px;
+}
+.hidetwo-3 > a:hover {
+  font-size: 18px;
+}
+.hidetwo-4 > a:hover {
+  font-size: 18px;
+}
+
+
+.hide-img {
+  width: 280px;
+  height: 180px;
+  margin-top: 50px;
+  margin-right: 50px;
+}
+
+.hideone:hover > .hidetwo {
+  display: block;
+  width: 100px;
+}
+.text-h4 {
+  margin-top: 40px;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.hidetwo-4 > a {
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  color: black;
+  padding-top: 17px;
+  font-size: 17px;
+}
+.hidetwo-3 > a {
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  color: black;
+  padding-top: 17px;
+  font-size: 17px;
+}
+.hidetwo-1 > a {
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  color: black;
+  padding-top: 17px;
+  font-size: 17px;
+}
+
+.hidetwo-2 > a {
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  color: black;
+  padding-top: 17px;
+  font-size: 17px;
+ 
+}
+.hidetwo-2 {
+  margin-left: 100px;
+  margin-top: 30px;
+ width: 130px;
+  background-color: white;
+}
+.hidetwo-4 {
+  margin-left: -20px;
+  background-color: white;
+  margin-top: 30px;
+}
+.hidetwo-3 {
+  margin-left: 70px;
+  width: 200px;
+  margin-top: 30px;
+  background-color: white;
+}
+.hidetwo-1 {
+  margin-top: 30px;
+  margin-left: 50px;
+  width: 120px;
+  background-color: white;
+}
+.hidetwo-5 {
+  display: flex;
+  margin-left: 128px;
+  background-color: white;
+}
+
+
+
+
+.hidetwoone-1 {
+  display: flex;
+  justify-content: space-around;
+  background-color: white;
+  height: 350px;
+  width: 1519px;
+  position: absolute;
+  margin-left: -866px;
+}
+.hideone > a {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 19px;
+  margin-right: 20px;
+}
+
+
+.hidetwoone-2 {
+  display: flex;
+  justify-content: space-around;
+  background-color: white;
+  height: 300px;
+  width: 1519px;
+  position: absolute;
+  margin-left: -998px;
+}
+.hideone > a {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 19px;
+  margin-right: 30px;
+}
+
+
+ 
+ #one{
+  margin-left: 420px;
+}
+#two{
+  margin-left:450px;
+}
+#three{
+  margin-left:250px;
+}
+.skyico {
+  height: 80px;
+  width: 250px;
+  position: absolute;
+}
+.hide-img {
+  width: 280px;
+  height: 180px;
+  margin-right: 50px;
+}
+
+
+.displayflex-1{
+  display: none;
+}
+.luggageone{
+  display: none;
+}
+.collection-1{
+  position: absolute;
+  top: 550px;
+  left: 570px;
+  text-align: center;
+  color: white;
+  
+}
+.collection-2{
+  display: none;
+}
+.sectiontwo{
+  position: absolute;
+  top: 800px;
+
+}
+.sectiontwo-text>li>a{
+text-decoration: none;
+margin-left: 20px;
+font-size: 20px;
+font-weight: 600;
+color: grey;
+
+}
+.sectiontwo-text{
+justify-content: center;
+}
+.sectiontwo-img{
+  margin-top: 50px;
+  display: flex;
+gap: 35px;
+margin-left: 50px;
+}
+.sec-img-1>img{
+  border-radius: 25px;
+}
+
+
+.skybag-img{
+  width: 100%;
+}
+.sky-1{
+  display: none;
+}
+.skybage-img-1{
+height: 450px;
+width: 450px;
+position: absolute;
+left: 740px;
+top:-500px;
+z-index: 1;
+}
+.skybage-img-2{
+  height: 450px;
+  width: 450px;
+  position: absolute;
+  left: 740px;
+  top:-500px;
+  z-index: 1;
+  }
+.round{
+  border-radius:50%;
+ height: 23px;
+ width: 24px;
+ margin-left: 70px;
+ margin-top: 5px;
+  background-color:black;
+}
+.move{
+  margin-left: 40px;
+  font-weight: 600;
+}
+.marquee{
+ position: absolute;
+ top: 2160px;
+}
+
+ 
+.sectionthree{
+  position: relative;
+  top: 2820px;
+}
+
+.footarone>a {
+text-decoration: none;
+color: black;
+display: flex;
+font-size: 17px;
+width: 300px;
+flex-direction: column;
+}
+.footar {
+  background-color: white;
+  display: flex;
+  justify-content: space-evenly;
+}
+.footartwo>img{
+  margin-left: 25px;
+  margin-top: -10px;  
+}
+.find{
+    margin-left: 25px;
+    font-weight: 600;
+}
+.footarthree{
+  background-color: rgba(128, 128, 128, 0.292);
+  
+}
+.footarfive{
+  height: 80px;
+  width: 100%;
+  background-color: #007CC3;
+}
+.borderless{
+  border: none;
+  background-color: transparent;
+  font-size: 19px;
+}
+.fa-plus{
+  margin-right: 20px;
+  font-size: 15px;
+}
+#demonextone{
+  display: none;
+}
+#footarone-1{
+   margin-left: 50px; 
+}
+.demonext{
+  position: absolute;
+}
+#demoprevone{
+  display: none;
+}
+.video-1{
+  background-image: url(https://cdn.shopify.com/s/files/1/0696/1011/1257/files/green_frame.png?v=1692872366);
+  height: 500px;
+  width: 340px;
+background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+.video-2{
+  background-image: url(	https://cdn.shopify.com/s/files/1/0696/1011/1257/files/yellow_frame.png?v=1692879189);
+  height: 500px;
+  width: 340px;
+background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.video-3{
+  background-image: url(https://cdn.shopify.com/s/files/1/0696/1011/1257/files/blue_frame.png?v=1692872367);
+  height: 500px;
+  width: 340px;
+background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.video-4{
+  background-image: url(	https://cdn.shopify.com/s/files/1/0696/1011/1257/files/red_frame.png?v=1692872365);
+  height: 500px;
+  width: 340px;
+background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.video-5{
+  background-image: url(	https://cdn.shopify.com/s/files/1/0696/1011/1257/files/blue_frame.png?v=1692872367);
+  height: 500px;
+  width: 340px;
+background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.video-6{
+  background-image: url(https://cdn.shopify.com/s/files/1/0696/1011/1257/files/yellow_frame.png?v=16928791895);
+  height: 500px;
+  width: 340px;
+background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.videoone{
+  margin-top: 2px;
+  height: 450px;
+  width:338px;
+  object-fit: cover;
+z-index: -1;
+position: relative;
+border-radius: 20px 97px 0px 0px;
+  box-sizing: border-box;
+}
+
+.carousel-containerone {
+  width: auto;
+  overflow: hidden;
+  position: relative;
+  background-image: url(https://cdn.shopify.com/s/files/1/0696/1011/1257/files/Mask_Group_48.svg?v=1692874438) !important;
+  height: 800px;
+  width: 100%;
+}
+
+.slides-wrapper {
+  display: flex;
+
+  transition: transform 0.5s ease;
+}
+
+.slide {
+  flex: 0 0 25%; 
+  text-align: center;
+  box-sizing: border-box;
+}
+.btnprevnext{
+  position: absolute;
+  top: 1100px;
+  left: 1330px;
+
+  
+}
+.btnprevnext>button{
+  border: none;
+  background-color: transparent;
+  font-size: 40px;
+  padding: 15px;
+  color: white;
+}
+
+.fa-instagram{
+  color: white;
+  font-size: 30px;
+position: relative;
+  top: -447px;
+  left: -145px;
+
+}
+.slide-bodyone{
+  margin-top: -30PX;
+  display: flex;
+}
+.skyshop{
+  height: 30px;
+  width: 35px;
+  margin-left:160px;
+}
+.skyshop-1{
+  height: 30px;
+  width: 35px;
+  margin-left:160px;
+}
+.skyshop-2{
+  height: 30px;
+  width: 35px;
+  margin-left:160px;
+}
+.skyshop-3{
+  height: 30px;
+  width: 35px;
+  margin-left:110px;
+}
+.skyshop-4{
+  height: 30px;
+  width: 35px;
+  margin-left:70px;
+}
+.skyshop-5{
+  height: 30px;
+  width: 35px;
+  margin-left: 75px;
+}
+.skytext{
+  color: white;
+  font-weight: 600;
+ margin-left: 50px;
+ margin-top: -6px;
+font-size: 13px;
+}
+.fix>img{
+position: fixed;
+top: 430px;
+z-index: 1;
+right: 0;
+height: 140px;
+width: 250px;
+}
+.buymain{
+  background-image: url(https://skybags.co.in/cdn/shop/files/Mask_Group_49.svg?v=1692773630);
+  width: 100%;
+  height: 440px;
+  object-fit: cover;
+}
+#search{
+  height: 140px;
+}
+.inputsearch{
+  border: none;
+  margin: -15px 0px 0px 20px;
+  outline: none;
+  height: 60px;
+  width: 450px;
+  font-size: 24px;
+}
+
+
+                                                        /* media queary */
+
+@media (max-width:590px) {
+  
+
+ .first {
+  background-color: white;
+  height: 25px;
+  text-align: center;
+  color: black;
+  padding-top: 8px;
+  width: 100%;
+}
+
+
+*{
+  margin: 0;
+  padding: 0;
+  /* overflow-x: hidden; */
+  /* overflow: hidden; */
+}
+.hidetwo {
+  display: none;
+}
+
+
+.collection-2{
+  position: absolute;
+  top: 130px;
+  left: 90px;
+  text-align: center;
+  color: white;
+ display: inline-block;
+  
+}
+.offcanvas-body{
+  text-align: center;
+  font-size: 24px;
+}
+.collection-1{
+  display: none;
+}
+
+h2 > a {
+  text-decoration: none;
+  color: black;
+
+}
+
+.hideone:hover>.luggageone{
+display: inline-block;
+}
+.hideone>h2{
+  padding:10px;
+}
+.luggageone{
+  margin-top: 12px;
+  margin-left: 50px;
+}
+.luggageone>a{
+  text-decoration: none;
+  color: black;
+  font-size: 22px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+.luggageone >h2{
+padding:8px;
+}
+.hide-img {
+  width: 280px;
+  height: 180px;
+  margin-top: 30px;
+  margin-right: 50px;
+}
+
+#down{
+  margin-left: 200px;
+}
+#downone{
+  margin-left: 194px;
+}
+#downtwo{
+  margin-left: 222px;
+}
+
+ video{
+/* position: fixed; */
+width: 100%;
+ }
+ #demo{
+  width:400px;
+ }
+
+
+ /* .hidden{
+ overflow-x: hidden;
+ } */
+ #btndis{
+  margin-left: 330px;
+ }
+ .displayflex-1{
+position: absolute;
+top: 30px;
+display: flex;
+
+
+}
+.carousel-containerone {
+  width: auto;
+  overflow: hidden;
+  position: relative;
+  top: 350px;
+  background-image: url(https://cdn.shopify.com/s/files/1/0696/1011/1257/files/Mask_Group_48.svg?v=1692874438) !important;
+  height: 800px;
+  width: 100%;
+}
+
+.skyicon {
+margin-left: 35px;
+  margin-top: 10px;
+  height: 60px;
+  width: 260px;
+
+}
+.navone{
+  display: flex;
+  margin-left: 25px;
+  margin-top: 20px;
+}
+.fa-magnifying-glass {
+  font-size: 21px;
+  color: rgba(255, 255, 255, 0.751);
+}
+.shop-1{
+  height: 25px;
+  width: 30px;
+  margin-left: 10px;
+}
+.sectiontwo{
+  position: absolute;
+  top: 250px;
+
+}
+.sectiontwo-text>li>a{
+text-decoration: none;
+margin-left: -10px;
+font-size: 9px;
+font-weight: 600;
+color: grey;
+}
+.sectiontwo-text{
+ justify-content: center;
+}
+.sectiontwo-img{
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+gap: 35px;
+margin-left: -30px;
+align-items: center;
+}
+.sec-img-1>img{
+  border-radius: 25px;
+  height: 250px;
+  width: 150px;
+}
+.skybag-img{
+  width: 100%;
+  object-fit: cover;
+}
+.sky{
+ display: none;
+}
+.sky-1{
+  width: 100%;
+  display: inline-block;
+}
+.caritem>img{
+ width: 100%;
+ height: 500px;
+}
+.sectionthree{
+  position: relative;
+  top: 3620px;
+}
+.marquee{
+  position: absolute;
+  top: 3080px;
+ }
+.buyicon{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+}
+.footar {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+ 
+}
+.footarmain{
+  position: absolute;
+  top: 1600px;
+}
+.footarone {
+  margin-left: 100px;
+  }
+  #footarone-1{
+    margin-left: 100px;
+  }
+  #demonextone{
+    display: inline-block;
+ position: absolute;
+bottom: -790px;
+  }
+  #demonext{
+    display: none;
+  }
+  #demoprev{
+    display: none;
+  }
+  #demoprevone{
+    display: inline-block;
+    width: 420px;
+    height: 300px;
+  }
+  #demoprev{
+    display: none;
+  }
+  .slides-wrapper {
+    display: flex;
+  
+    transition: transform 0.5s ease;
+  }
+  
+  .slide {
+  display: flex;
+    text-align: center;
+    box-sizing: border-box;
+  }
+  .btnprevnext{
+    position: absolute;
+    top: 1450px;
+    left: 130px;
+  
+    
+  }
+  .fix>img{
+    position: fixed;
+    top: 830px;
+    z-index: 1;
+    left: 230PX;
+    height:130px;
+    width: 190px;
+    }
+
+}  
